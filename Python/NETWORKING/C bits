@@ -1,0 +1,5 @@
+rev bits unsigned int val
+return string of bits in reverse order
+
+ex 0000 0000 0000 0000 0000 0000 0000 1100
+   00110000000000000000000000000000
